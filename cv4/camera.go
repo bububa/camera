@@ -9,7 +9,7 @@ import (
 
 	"gocv.io/x/gocv"
 
-	"github.com/bububa/facenet/camera"
+	"github.com/bububa/camera"
 )
 
 // Camera represents camera.

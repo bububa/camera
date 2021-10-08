@@ -175,7 +175,7 @@ import (
 	"image"
 	"unsafe"
 
-	"github.com/bububa/facenet/camera"
+	"github.com/bububa/camera"
 )
 
 // Camera represents camera.

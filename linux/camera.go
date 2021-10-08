@@ -10,8 +10,8 @@ import (
 	"github.com/korandiz/v4l"
 	"github.com/korandiz/v4l/fmt/mjpeg"
 
-	"github.com/bububa/facenet/camera"
-	im "github.com/bububa/facenet/camera/image"
+	"github.com/bububa/camera"
+	im "github.com/bububa/camera/image"
 )
 
 // Camera represents v4l camera
